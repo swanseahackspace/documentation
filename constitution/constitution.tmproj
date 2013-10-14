@@ -3,31 +3,35 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Code/hackspace/documentation/constitution/articles-body.tex</string>
+	<string>articles.tex</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>articles-body.tex</string>
 			<key>lastUsed</key>
-			<date>2013-10-09T20:26:45Z</date>
+			<date>2013-10-09T20:32:31Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>articles.tex</string>
 			<key>lastUsed</key>
-			<date>2013-10-09T20:26:45Z</date>
+			<date>2013-10-09T20:32:51Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>header.tex</string>
+			<key>lastUsed</key>
+			<date>2013-10-09T20:32:51Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Code/hackspace/documentation/constitution/articles-body.tex</key>
+		<key>articles-body.tex</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -39,14 +43,28 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>49</integer>
+			<integer>0</integer>
 		</dict>
-		<key>Code/hackspace/documentation/constitution/articles.tex</key>
+		<key>articles.tex</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>7</integer>
+				<integer>22</integer>
+				<key>line</key>
+				<integer>13</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>header.tex</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
 				<key>line</key>
 				<integer>0</integer>
 			</dict>
@@ -58,8 +76,9 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Code/hackspace/documentation/constitution/articles.tex</string>
-		<string>Code/hackspace/documentation/constitution/articles-body.tex</string>
+		<string>articles.tex</string>
+		<string>articles-body.tex</string>
+		<string>header.tex</string>
 	</array>
 	<key>shellVariables</key>
 	<array>
