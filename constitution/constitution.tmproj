@@ -3,28 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>articles.tex</string>
+	<string>articles-body.tex</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>articles-body.tex</string>
 			<key>lastUsed</key>
-			<date>2013-10-09T20:32:31Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>articles.tex</string>
-			<key>lastUsed</key>
-			<date>2013-10-09T20:32:51Z</date>
+			<date>2013-10-14T18:20:48Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
+			<string>articles.tex</string>
+			<key>lastUsed</key>
+			<date>2013-10-14T18:20:44Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>header.tex</string>
 			<key>lastUsed</key>
-			<date>2013-10-09T20:32:51Z</date>
+			<date>2013-10-14T18:20:48Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -36,14 +36,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>79</integer>
+				<integer>35</integer>
 				<key>line</key>
-				<integer>66</integer>
+				<integer>298</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>274</integer>
 		</dict>
 		<key>articles.tex</key>
 		<dict>
@@ -94,6 +94,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{384, 60}, {640, 659}}</string>
+	<string>{{384, 63}, {835, 659}}</string>
 </dict>
 </plist>
